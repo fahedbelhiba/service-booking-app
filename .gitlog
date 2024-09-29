@@ -1,1 +1,2 @@
 [2024-09-26 17:42:00 +0200] chore: initial Android Kotlin project with MVVM scaffold
+[2024-09-29 13:54:00 +0200] feat: define Service, Provider, Booking domain models
