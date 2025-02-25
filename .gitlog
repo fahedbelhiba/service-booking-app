@@ -5,3 +5,4 @@
 [2024-11-26 12:14:00 +0200] feat: service list screen with search and category filter
 [2024-12-27 09:22:00 +0200] feat: provider availability calendar view with time slot picker
 [2025-01-26 11:22:00 +0200] feat: booking confirmation flow with summary screen
+[2025-02-25 15:28:00 +0200] feat: add push notifications for booking reminders (FCM)
