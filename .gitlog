@@ -7,3 +7,4 @@
 [2025-01-26 11:22:00 +0200] feat: booking confirmation flow with summary screen
 [2025-02-25 15:28:00 +0200] feat: add push notifications for booking reminders (FCM)
 [2025-03-26 12:51:00 +0200] feat: booking history screen with status tracking
+[2025-04-25 17:26:00 +0200] fix: calendar time slot overlap issue when provider has back-to-back bookings
