@@ -9,3 +9,4 @@
 [2025-03-26 12:51:00 +0200] feat: booking history screen with status tracking
 [2025-04-25 17:26:00 +0200] fix: calendar time slot overlap issue when provider has back-to-back bookings
 [2025-05-26 10:41:00 +0200] test: unit tests for availability computation logic
+[2025-06-25 14:24:00 +0200] feat: add cancellation flow with refund policy display
