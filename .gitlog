@@ -12,3 +12,4 @@
 [2025-06-25 14:24:00 +0200] feat: add cancellation flow with refund policy display
 [2025-07-26 09:31:00 +0200] refactor: migrate to Kotlin coroutines + Flow for async operations
 [2025-09-25 17:30:00 +0200] feat: add review and rating screen after completed booking
+[2025-11-26 13:04:00 +0200] fix: FCM token refresh not updating server-side, add refresh listener
