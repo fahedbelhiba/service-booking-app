@@ -15,3 +15,4 @@
 [2025-11-26 13:04:00 +0200] fix: FCM token refresh not updating server-side, add refresh listener
 [2026-01-25 09:37:00 +0200] feat: add offline mode - queue bookings when no network
 [2026-03-26 17:21:00 +0200] refactor: adopt Jetpack Compose for all new screens
+[2026-05-25 14:48:00 +0200] docs: README with feature list, screenshots, and API setup guide
